@@ -1,0 +1,205 @@
+<root>
+
+    <!-- dates are in YYYY-MM-DD format -->
+
+    <!-- 2014 -->
+    <schedule validUntil="2015-03-31" validFrom="2014-04-01">
+
+        <day name="Mon" isoOrdinal="1">
+            <!-- REGULAR -->
+            <lesson start="06:30" end="07:30" title="regular doshu" />
+            <lesson start="08:00" end="09:00" title="regular kobayashi" />
+            <lesson start="15:00" end="16:00" title="regular toriumi" />
+            <lesson start="17:30" end="18:30" title="regular yokota" />
+            <lesson start="19:00" end="20:00" title="regular yokota" />
+            
+            <!-- BEGINNER -->
+            <lesson start="07:00" end="08:00" title="beginner ueshiba" />
+            <lesson start="17:30" end="18:30" title="beginner kodani" />
+            <lesson start="19:00" end="20:00" title="beginner kodani" />
+        </day>
+        
+        <day name="Tue" isoOrdinal="2">
+            <!-- REGULAR -->
+            <lesson start="06:30" end="07:30" title="regular ueshiba" />
+            <lesson start="08:00" end="09:00" title="regular yasuno" />
+            <lesson start="10:30" end="11:30" title="women sakurai" /> 
+            <lesson start="15:00" end="16:00" title="regular kobayashi" />
+            <lesson start="17:30" end="18:30" title="regular osawa" />
+            <lesson start="19:00" end="20:00" title="regular osawa" />
+            
+            <!-- BEGINNER -->
+            <lesson start="07:00" end="08:00" title="beginner fujimaki" />
+            <lesson start="18:00" end="19:00" title="women oyama" />
+            <lesson start="19:00" end="20:00" title="beginner oyama" />
+        </day>        
+        
+        <day name="Wed" isoOrdinal="3">
+            <!-- REGULAR -->
+            <lesson start="06:30" end="07:30" title="regular doshu" />
+            <lesson start="08:00" end="09:00" title="regular kanazawa" />
+            <lesson start="15:00" end="16:00" title="regular endo" />
+            <lesson start="17:30" end="18:30" title="regular miyamoto" />
+            <lesson start="19:00" end="20:00" title="regular miyamoto" />
+            
+            <!-- BEGINNER -->
+            <lesson start="07:00" end="08:00" title="beginner ueshiba" />
+            <lesson start="17:30" end="18:30" title="beginner sakurai" />
+            <lesson start="19:00" end="20:00" title="beginner sakurai" />
+        </day>        
+        
+        <day name="Thu" isoOrdinal="4">
+            <!-- REGULAR -->
+            <lesson start="06:30" end="07:30" title="regular ueshiba" />
+            <lesson start="08:00" end="09:00" title="regular osawa" />
+            <lesson start="15:00" end="16:00" title="regular fujimaki" />
+            <lesson start="17:30" end="18:30" title="regular seki" />
+            <lesson start="19:00" end="20:00" title="regular seki" />
+            
+            <!-- BEGINNER -->
+            <lesson start="07:00" end="08:00" title="beginner kanazawa" />
+            <lesson start="18:00" end="19:00" title="women fujimaki" />
+            <lesson start="19:00" end="20:00" title="beginner fujimaki" />
+        </day>          
+        
+        <day name="Fri" isoOrdinal="5">
+            <!-- REGULAR -->
+            <lesson start="06:30" end="07:30" title="regular doshu" />
+            <lesson start="08:00" end="09:00" title="regular irie" />
+            <lesson start="10:30" end="11:30" title="women kobayashi" /> 
+            <lesson start="15:00" end="16:00" title="regular kuribayashi" />
+            <lesson start="17:30" end="18:30" title="regular miyamoto" />
+            <lesson start="19:00" end="20:00" title="regular doshu" />
+            
+            <!-- BEGINNER -->
+            <lesson start="07:00" end="08:00" title="beginner ueshiba" />
+            <lesson start="17:30" end="18:30" title="beginner katsurada" />
+            <lesson start="19:00" end="20:00" title="beginner katsurada" />
+        </day>        
+        
+        <day name="Sat" isoOrdinal="6">
+            <!-- REGULAR -->
+            <lesson start="06:30" end="07:30" title="regular doshu" />
+            <lesson start="08:00" end="09:00" title="regular mori" />
+            <lesson start="10:30" end="11:30" title="regular kobayashi" />            
+            <lesson start="15:00" end="16:00" title="regular yokota" />
+            <lesson start="17:30" end="18:30" title="regular sugawara" />
+            <lesson start="19:00" end="20:00" title="regular sugawara" />
+            
+            <!-- BEGINNER -->
+            <lesson start="07:00" end="08:00" title="beginner irie" />
+            <lesson start="09:30" end="10:30" title="beginner sasaki" />
+        </day>          
+        
+        <day name="Sun" isoOrdinal="7">
+            <!-- REGULAR -->
+            <lesson start="09:00" end="10:00" title="regular kanazawa" />
+            <lesson start="10:30" end="11:30" title="regular doshu" />            
+            
+            <!-- BEGINNER -->
+            <lesson start="09:30" end="10:30" title="beginner irie" />
+        </day>        
+        
+    </schedule>
+    
+    <!-- 2015 -->
+    <schedule validUntil="2016-03-31" validFrom="2015-04-01">
+
+        <day name="Mon" isoOrdinal="1">
+            <!-- REGULAR -->
+            <lesson start="06:30" end="07:30" title="regular doshu" />
+            <lesson start="08:00" end="09:00" title="regular kanazawa" />
+            <lesson start="15:00" end="16:00" title="regular toriumi" />
+            <lesson start="17:30" end="18:30" title="regular yokota" />
+            <lesson start="19:00" end="20:00" title="regular yokota" />
+            
+            <!-- BEGINNER -->
+            <lesson start="07:00" end="08:00" title="beginner ueshiba" />
+            <lesson start="17:30" end="18:30" title="beginner kodani" />
+            <lesson start="19:00" end="20:00" title="beginner kodani" />
+        </day>
+        
+        <day name="Tue" isoOrdinal="2">
+            <!-- REGULAR -->
+            <lesson start="06:30" end="07:30" title="regular ueshiba" />
+            <lesson start="08:00" end="09:00" title="regular yasuno" />
+            <lesson start="10:30" end="11:30" title="women sakurai" /> 
+            <lesson start="15:00" end="16:00" title="regular sakurai" />
+            <lesson start="17:30" end="18:30" title="regular osawa" />
+            <lesson start="19:00" end="20:00" title="regular osawa" />
+            
+            <!-- BEGINNER -->
+            <lesson start="07:00" end="08:00" title="beginner fujimaki" />
+            <lesson start="18:00" end="19:00" title="women oyama" />
+            <lesson start="19:00" end="20:00" title="beginner oyama" />
+        </day>        
+        
+        <day name="Wed" isoOrdinal="3">
+            <!-- REGULAR -->
+            <lesson start="06:30" end="07:30" title="regular doshu" />
+            <lesson start="08:00" end="09:00" title="regular kuribayashi" />
+            <lesson start="15:00" end="16:00" title="regular namba" />
+            <lesson start="17:30" end="18:30" title="regular miyamoto" />
+            <lesson start="19:00" end="20:00" title="regular miyamoto" />
+            
+            <!-- BEGINNER -->
+            <lesson start="07:00" end="08:00" title="beginner ueshiba" />
+            <lesson start="17:30" end="18:30" title="beginner sakurai" />
+            <lesson start="19:00" end="20:00" title="beginner sakurai" />
+        </day>        
+        
+        <day name="Thu" isoOrdinal="4">
+            <!-- REGULAR -->
+            <lesson start="06:30" end="07:30" title="regular ueshiba" />
+            <lesson start="08:00" end="09:00" title="regular osawa" />
+            <lesson start="15:00" end="16:00" title="regular fujimaki" />
+            <lesson start="17:30" end="18:30" title="regular kobayashi" />
+            <lesson start="19:00" end="20:00" title="regular kobayashi" />
+            
+            <!-- BEGINNER -->
+            <lesson start="07:00" end="08:00" title="beginner kanazawa" />
+            <lesson start="18:00" end="19:00" title="women fujimaki" />
+            <lesson start="19:00" end="20:00" title="beginner fujimaki" />
+        </day>          
+        
+        <day name="Fri" isoOrdinal="5">
+            <!-- REGULAR -->
+            <lesson start="06:30" end="07:30" title="regular doshu" />
+            <lesson start="08:00" end="09:00" title="regular irie" />
+            <lesson start="10:30" end="11:30" title="women kobayashi" /> 
+            <lesson start="15:00" end="16:00" title="regular seki" />
+            <lesson start="17:30" end="18:30" title="regular miyamoto" />
+            <lesson start="19:00" end="20:00" title="regular doshu" />
+            
+            <!-- BEGINNER -->
+            <lesson start="07:00" end="08:00" title="beginner ueshiba" />
+            <lesson start="17:30" end="18:30" title="beginner katsurada" />
+            <lesson start="19:00" end="20:00" title="beginner katsurada" />
+        </day>        
+        
+        <day name="Sat" isoOrdinal="6">
+            <!-- REGULAR -->
+            <lesson start="06:30" end="07:30" title="regular doshu" />
+            <lesson start="08:00" end="09:00" title="regular mori" />
+            <lesson start="10:30" end="11:30" title="regular kobayashi" />            
+            <lesson start="15:00" end="16:00" title="regular yokota" />
+            <lesson start="17:30" end="18:30" title="regular sugawara" />
+            <lesson start="19:00" end="20:00" title="regular sugawara" />
+            
+            <!-- BEGINNER -->
+            <lesson start="07:00" end="08:00" title="beginner irie" />
+            <lesson start="09:30" end="10:30" title="beginner sasaki" />
+        </day>          
+        
+        <day name="Sun" isoOrdinal="7">
+            <!-- REGULAR -->
+            <lesson start="09:00" end="10:00" title="regular kanazawa" />
+            <lesson start="10:30" end="11:30" title="regular doshu" />            
+            
+            <!-- BEGINNER -->
+            <lesson start="09:30" end="10:30" title="beginner irie" />
+        </day>        
+        
+    </schedule>
+
+</root>

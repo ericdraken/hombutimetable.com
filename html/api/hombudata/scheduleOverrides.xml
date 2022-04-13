@@ -1,0 +1,8 @@
+<root>
+    <!-- dates are in YYYY-MM-DD HH:MM format for JST -->
+
+    <!-- SCHEDULE OVERRIDES -->
+
+    <lesson lessonId="-934428972" start="2014-10-24 19:00" teacherId="miyamoto" wasId="doshu" />
+    
+</root>

@@ -1,0 +1,333 @@
+<videos>
+
+    <group id="doshu">
+        <video start="86">NkfMe0E2UXk</video>
+        <video start="6">DpJXRhoozPY</video>
+        <video start="7">Pen86by6Xz8</video>
+        <video start="8">ShYV9molIkY</video>
+        <video start="4">p-B0oMDucV8</video>
+        <video start="91.5">xOZ3dVh5I6I</video>
+        <video start="8.5">8r_L6EIZ1yU</video>
+        <!-- <video start="8">YNw5UT04KfA</video> // RESTRICTIONS -->
+        <video start="168">0yZBBs7o5qY</video>
+        <video start="26">bOciFT40tEU</video>
+        <!-- <video start="137">J-ZzbV5A79s</video> // RESTRICTIONS -->
+    </group>
+
+    <group id="endo">
+        <video start="7">rrawVFsgGAs</video>
+        <video start="19">cKZNMabWs2k</video>
+        <video start="5">udizqtNmgPE</video>
+        <video start="0">qkE8TokY-hM</video>
+        <video start="23">iNyXuusXITs</video>
+        <video start="26">3PjgjwZiePE</video>
+        <video start="27">BC0znZOWzR4</video>
+        <!-- <video start="3">oSAkxwcl8L0</video> -->
+        <video start="7">nkMxgrZyLvg</video>
+        <video start="0">etr1qUm-Srs</video>
+        <video start="10">J6XjO0qcoOI</video>
+        <video start="11">0xKl5Oq-y2I</video>
+        <video start="5">-oLRA63iQtA</video>
+        <video start="22">-qC9ODwtWJM</video>
+        <video start="8">mRrpt20cYW0</video>
+        <video start="29">zi2lg3sdINk</video>
+    </group>
+
+    <group id="fujimaki">
+        <video start="13">LkMiWBnq7W4</video>
+        <video start="0">5YgYDUifejE</video>
+        <video start="14">1geY288O8EA</video>
+        <video start="19">VYZdNSftIAE</video>
+        <video start="16">Y2cCd6t5L4M</video>
+        <video start="13">N_jXMd5CrOI</video>
+        <video start="24">odyfYmscjI8</video>
+        <video start="6">zM9VvmjNpLs</video>
+        <video start="8">62rL_9u44b0</video>
+    </group>
+
+    <group id="fujita">
+        <video start="40">iT2RbKo9o78</video>
+        <video start="58">TQqocRx-Aw0</video>
+        <video start="7">ZqevDBeW_M4</video>
+        <video start="34">Weh3AvFCga0</video>
+        <video start="28">I3iCfsc2MnY</video>
+        <video start="0">gfin2maaa4I</video>
+    </group>
+
+    <group id="hino">
+        <video start="9">UnpHMeeVnSM</video>
+        <video start="14">wAUrkJQY40Y</video>
+        <video start="37">mQYy_5os5gE</video>
+    </group>
+
+    <!-- HIDDEN: Kazuo Igarashi -->
+    <group id="kigarashi">
+        <video start="9">seLvH_TaWY8</video>
+        <video start="60">9Yzwd36KTho</video>
+        <video start="6">dIrZMj8xVRA</video>
+    </group>
+    
+    <group id="irie">
+        <video start="10">iyRh2Q5Eov4</video>
+        <video start="23">KXoKNzEumis</video>
+        <video start="8">_dS9hfcyAuo</video>
+        <video start="6">p9uyxfJzOkk</video>
+        <video start="15">fDAqGUUo6FQ</video>
+        <video start="19">a5Nc4P6a-mw</video>
+        <video start="14">2zhMR6pTBTw</video>
+        <video start="12">DYbRADVn0x0</video>
+        <video start="14">HkTye9k_5aY</video>
+        <video start="14">8ftqEy7sOTQ</video>
+        <video start="13">qDqbXXjxnbc</video>
+        <!-- <video start="8">uzMgEzrnXg8</video> -->
+    </group>
+
+    <group id="ito">
+        <video start="19">p0jtC4mDXmQ</video>
+        <video start="13">T9JUFFyvmts</video>
+        <video start="12">OIg7eldjspM</video>
+        <video start="13">2-6A290s0LA</video>
+        <video start="13">qncYL5vz8No</video>
+        <video start="18">xJn8G2-qiJU</video>
+        <video start="5">uYfyUVMa4DY</video>
+    </group>
+
+    <group id="kanazawa">
+        <video start="9">b-esLJLxz-0</video>
+        <video start="0">c3eoOpevGks</video>
+        <video start="24">zxULJ-6Rj3A</video>
+        <video start="17">y7c1bZeIPHU</video>
+        <video start="11">kysv1vnZmqs</video>
+        <video start="14">8uHinZnlsxo</video>
+        <video start="11">V3rE1e3AdQc</video>
+        <video start="20">CqqAgin7Xwk</video>
+    </group>
+
+    <group id="katsurada">
+        <video start="17.5">7kyGsUMM9UM</video>
+        <video start="7">aMkY3gPJMmo</video>
+        <video start="15">LM4-BhfYYz0</video>
+        <video start="6">gFUObF9Hops</video>
+        <video start="5">QJUSHA2RItc</video>
+        <video start="25">TllGU-RxwmY</video>
+    </group>
+
+    <group id="kobayashi">
+        <video start="8">GXB0_jgc1M8</video>
+        <video start="21">U3bO_Fp_ouM</video>
+        <video start="0">cMg9uB21iUk</video>
+        <video start="15">XqFHix0um24</video>
+        <video start="15">AXGwhFlYDhU</video>
+        <video start="7">GrkmVEPNiKU</video>
+        <video start="2">NuiAVsGVTSQ</video>
+    </group>
+
+    <group id="kodani">
+        <video start="26">hc8Qs-m14-0</video>
+        <video start="12">eVJQ58NwbbQ</video>
+        <video start="13">S3SyQ1xLBGw</video>
+    </group>
+
+    <group id="kuribayashi">
+        <video start="5">9IKJ9TDDg_Q</video>
+        <video start="8">-46XXPcdV8w</video>
+        <video start="13">O6h_nWREGyE</video>
+        <video start="0">-YefBbSeM1M</video>
+        <video start="0">qadISiyIskI</video>
+    </group>
+
+    <group id="masuda">
+        <video start="25">97SMSmpofKg</video>
+    </group>
+
+    <group id="miyamoto">
+        <video start="47">tJmNRvaQoZw</video>
+        <video start="13">5MJQNc2PRuQ</video>
+        <video start="13">JYJRejh16fQ</video>
+        <video start="0">ks9Ee1DyG-s</video>
+        <video start="6">XkXalONphgc</video>
+        <video start="26">WTpt9kcoauM</video>
+    </group>
+
+    <group id="mori">
+        <video start="10.5">0n9uMggnboE</video>
+        <video start="0">1RK_VGiEIqo</video>
+        <video start="66">cbWbVIyatAU</video>
+        <video start="9">uS4eC7fRkIg</video>
+    </group>
+
+    <group id="namba">
+        <video start="6">0E1JTFTw_6w</video>
+        <video start="9">xDf1tkv-U3Q</video>
+        <video start="5">uDlbEOb7ctw</video>
+        <video start="5">oAmifKadZzM</video>
+        <video start="12">CUgpc1F_Qzg</video>
+        <video start="3">Ycw8uHkOqfg</video>
+    </group>
+
+    <group id="osawa">
+        <video start="10">B2UpRBxTQbM</video>
+        <video start="4.5">PkQFz7T3C-k</video>
+        <video start="18">pK0yQ5EcqyA</video>
+        <video start="3">kKvHOcTGhbM</video>
+    </group>
+
+    <group id="oyama">
+        <video start="25">SeSu4ahT_Wo</video>
+        <video start="18">ouRmTDnP0QM</video>
+        <video start="37">mQYy_5os5gE</video>
+        <video start="1">zheEX4XZHbs</video>
+    </group>
+
+    <group id="sakurai">
+        <video start="11">SlM-NXOVmRA</video>
+        <video start="7">FyqeMk9iK2s</video>
+        <video start="41">pdlNRBq7UMM</video>
+    </group>
+
+    <group id="sasaki">
+        <video start="6">VjAjhrvxCds</video>
+        <video start="16">Rm0zI4o0XCk</video>
+    </group>
+
+    <group id="satodate">
+        <video></video>
+    </group>
+
+    <!-- HIDDEN: Steven Segal -->
+    <group id="sseagal">
+        <video start="233">n3kR6WNr8lI</video>
+    </group>
+
+    <group id="seki">
+        <video start="13">WFyS0FQ-RMU</video>
+        <video start="14">z2XNpfsextk</video>
+    </group>
+
+    <!-- HIDDEN: Ryuji Shirakawa -->
+    <group id="rshirakawa">
+        <video start="14">fUI18V9Gjew</video>
+        <video start="8">djh7ju1VVq4</video>
+        <video start="0">71ep9Xay46Y</video>
+        <video start="0">TKjKGcNR5MU</video>
+        <video start="66">63ENGr82p0o</video>
+        <video start="13">2GkeURE0m7s</video>
+        <video start="0">oA7iHefG8hg</video>
+        <video start="0">oy_ZM2WSC-M</video>
+        <video start="4">zOJxeAi-ECQ</video>
+        <video start="0">Ly6qMBajogI</video>
+        <video start="0">isvHaoxCPBY</video>
+        <video start="0">lLUPTaEnTWU</video>
+        <video start="16">05KHLaXui0c</video>
+    </group>
+    
+    <!-- HIDDEN: Katsutoshi Shirakawa -->
+    <group id="kshirakawa">
+        <video start="23">XPwGqrXLMhg</video>
+        <video start="7">g0OhA6eFIPk</video>
+        <video start="11">w9VcFaszlfU</video>
+        <video start="8">SCcByCFm7rE</video>
+        <video start="2">KAS13K10WBI</video>
+    </group>
+
+    <group id="sugawara">
+        <video start="9">EqjZ4Rv-iNw</video>
+        <video start="1">Yyl-aZFISAk</video>
+        <video start="0">Uz2ZP_ixzDQ</video>
+        <video start="19">JaaFAc4tXB8</video>
+    </group>
+
+    <!-- HIDDEN: Christian Tissier -->
+    <group id="ctissier">
+        <video start="9">XSndYcP1Ohw</video>
+        <video start="17">8yjp8YgHqB0</video>
+    </group>
+
+    <group id="tada">
+        <video start="22">Bhee_NIpQUo</video>
+        <video start="39">hSmIrcpUj5I</video>
+        <video start="11">X0AW_OyoyEM</video>
+        <video start="23">Fh8ZnR-j65g</video>
+    </group>
+
+    <group id="tokuda">
+        <video></video>
+    </group>
+
+    <group id="toriumi">
+        <video start="3">0SH9To1fPL0</video>
+    </group>
+
+    <group id="tsuzuki">
+        <video start="28">IHY6WHfHYUw</video>
+        <video start="24">154RmjATpyc</video>
+        <video start="0">4vLlNXmVyks</video>
+        <video start="11">7xotJtbDa7U</video>
+        <video start="21">s0de_FPdXdU</video>
+        <video start="37">e4KwoFTMcl8</video>
+    </group>
+
+    <group id="uchida">
+        <video start="0">5oDQRQK7XZc</video>
+    </group>
+
+    <group id="ueshiba">
+        <video start="32">nBJ8cg0Spow</video>
+        <video start="45">0yZBBs7o5qY</video>
+        <video start="81">84KObMxCEgo</video>
+        <video start="24">nauM9jLn-hs</video>
+        <video start="37">FdWaWwvKHPQ</video>
+        <video start="91">y9z5ZeB0ThE</video>
+    </group>
+
+    <group id="osensei">
+        <video start="48">98yRuBkUBGQ</video>
+        <video start="37">z7mxPWyb9q0</video>
+        <video start="12">TYDA53HLKbo</video>
+        <video start="0">cJeIb1CQjqI</video>
+        <video start="4">gr3Z5r26R2o</video>
+        <video start="0">nNVUEhDeeKU</video>
+    </group>
+
+    <group id="kueshiba">
+        <video start="17">z-YoPzzuBDA</video>
+        <video start="2">gjgu0GmWi5Y</video>
+        <!-- <video start="6">qmItU4ZMzyc</video>-->
+        <!-- <video start="0">v1pkhAXgTL0</video> DELETED -->
+    </group>
+
+    <group id="watanabe">
+        <video start="4">bV_UIpAijrA</video>
+        <video start="1">F0XW2QhuPHk</video>
+        <video start="36">qL-Iv_VDQ-Q</video>
+    </group>
+
+    <!-- HIDDEN: Yoshimutsu Yamada -->
+    <group id="yyamada">
+        <video start="0">07eYIxULago</video>
+    </group>
+
+    <group id="yamaguchi">
+        <video start="38">jtyloZ26cyk</video>
+        <video start="11">5-4-WWa33Kk</video>
+        <!-- <video start="23">73TbcGq28M8</video>-->
+        <video start="8">waZqN-E3F6g</video>
+        <video start="2">rWxB76KWY1s</video>
+    </group>
+
+    <group id="yasuno">
+        <video start="13">gkw44hIBntw</video>
+        <!--<video start="53">6wYsi1dtbVE</video> -->
+        <!-- <video start="0">OScNI2n_upU</video> -->
+        <video start="10">Wx8lnj0xNiI</video>
+        <video start="10">w5y-eNX7hL8</video>
+        <video start="3">U7tIEBx1oPo</video>
+    </group>
+
+    <group id="yokota">
+        <video start="14">0Hq8cqVMZl8</video>
+        <video start="7">wJfO_ORKF2A</video>
+        <video start="5">O13gOsezmjc</video>
+    </group>
+
+</videos>

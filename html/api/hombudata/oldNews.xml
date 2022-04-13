@@ -1,0 +1,797 @@
+    <news date="2014-07-27">
+        <infoEn>Midsummer training: Day 1 of 10</infoEn>
+        <infoJa>暑中稽古: 10日間の1日目</infoJa>
+    </news>
+
+    <news date="2014-07-28">
+        <infoEn>Midsummer training: Day 2 of 10</infoEn>
+        <infoJa>暑中稽古: 10日間の2日目</infoJa>
+    </news>
+
+    <news date="2014-07-29">
+        <infoEn>Midsummer training: Day 3 of 10</infoEn>
+        <infoJa>暑中稽古: 10日間の3日目</infoJa>
+    </news>
+
+    <news date="2014-07-30">
+        <infoEn>Midsummer training: Day 4 of 10</infoEn>
+        <infoJa>暑中稽古: 10日間の4日目</infoJa>
+    </news>
+
+    <news date="2014-07-31">
+        <infoEn>Midsummer training: Day 5 of 10</infoEn>
+        <infoJa>暑中稽古: 10日間の5日目</infoJa>
+    </news>
+
+    <news date="2014-08-01">
+        <infoEn>Midsummer training: Day 6 of 10</infoEn>
+        <infoJa>暑中稽古: 10日間の6日目</infoJa>
+    </news>
+
+    <news date="2014-08-02">
+        <infoEn>Midsummer training: Day 7 of 10</infoEn>
+        <infoJa>暑中稽古: 10日間の7日目</infoJa>
+    </news>
+
+    <news date="2014-08-03">
+        <infoEn>Midsummer training: Day 8 of 10</infoEn>
+        <infoJa>暑中稽古: 10日間の8日目</infoJa>
+    </news>
+
+    <news date="2014-08-04">
+        <infoEn>Midsummer training: Day 9 of 10</infoEn>
+        <infoJa>暑中稽古: 10日間の9日目</infoJa>
+    </news>
+
+    <news date="2014-08-05">
+        <infoEn>Midsummer training: Day 10 of 10</infoEn>
+        <infoJa>暑中稽古: 10日間の10日目</infoJa>
+    </news>
+
+
+
+       <news date="2013-12-25">
+           <infoEn>Last day of practice for Regular classes</infoEn>
+           <infoJa>稽古納め</infoJa>
+       </news>
+
+       <news date="2013-12-26">
+           <infoEn>Dojo cleaning 09:00-12:00</infoEn>
+           <infoJa>大掃除　9:00～12:00</infoJa>
+       </news>
+
+       <news date="2014-01-06">
+           <infoEn>Practice begins for Regular classes</infoEn>
+           <infoJa>稽古始め</infoJa>
+       </news>
+
+       <news date="2014-01-11">
+           <infoEn>Due to meetings, no practices after 9:00</infoEn>
+           <infoJa>会議のため朝9時以降の稽古はお休みです。</infoJa>
+       </news>
+
+       <news date="2014-01-12">
+           <infoEn>Hombu Dojo kagami-biraki ceremony</infoEn>
+           <infoJa>本部道場鏡開き</infoJa>
+       </news>
+
+       <news date="2014-01-27">
+           <infoEn>Mid-winter training: Day 1 of 10</infoEn>
+           <infoJa>寒稽古: 10日間の1日目</infoJa>
+       </news>
+
+       <news date="2014-01-28">
+           <infoEn>Mid-winter training: Day 2 of 10</infoEn>
+           <infoJa>寒稽古: 10日間の2日目</infoJa>
+       </news>
+
+       <news date="2014-01-29">
+           <infoEn>Mid-winter training: Day 3 of 10</infoEn>
+           <infoJa>寒稽古: 10日間の3日目</infoJa>
+       </news>
+
+       <news date="2014-01-30">
+           <infoEn>Mid-winter training: Day 4 of 10</infoEn>
+           <infoJa>寒稽古: 10日間の4日目</infoJa>
+       </news>
+
+       <news date="2014-01-31">
+           <infoEn>Mid-winter training: Day 5 of 10</infoEn>
+           <infoJa>寒稽古: 10日間の5日目</infoJa>
+       </news>
+
+       <news date="2014-02-01">
+           <infoEn>Mid-winter training: Day 6 of 10</infoEn>
+           <infoJa>寒稽古: 10日間の6日目</infoJa>
+       </news>
+
+       <news date="2014-02-02">
+           <infoEn>Mid-winter training: Day 7 of 10</infoEn>
+           <infoJa>寒稽古: 10日間の7日目</infoJa>
+       </news>
+
+       <news date="2014-02-03">
+           <infoEn>Mid-winter training: Day 8 of 10</infoEn>
+           <infoJa>寒稽古: 10日間の8日目</infoJa>
+       </news>
+
+       <news date="2014-02-04">
+           <infoEn>Mid-winter training: Day 9 of 10</infoEn>
+           <infoJa>寒稽古: 10日間の9日目</infoJa>
+       </news>
+
+       <news date="2014-02-05">
+           <infoEn>Mid-winter training: Day 10 of 10</infoEn>
+           <infoJa>寒稽古: 10日間の10日目</infoJa>
+       </news>
+
+       <news date="2014-03-30">
+           <infoEn>Celebration of Doshu’s Ranju-Hosho</infoEn>
+           <infoJa>道主藍綬褒章祝賀会</infoJa>
+       </news>
+
+       <news date="2014-04-26">
+           <infoEn>Anniversary of the founder's passing</infoEn>
+           <infoJa>開祖御命日、開祖・吉祥丸二代道主をしのぶ会</infoJa>
+       </news>
+
+       <news date="2014-04-29">
+           <infoEn>Aiki Shrine Festival</infoEn>
+           <infoJa>合気神社大祭 (合気神社)</infoJa>
+       </news>
+
+       <news date="2014-05-24">
+           <infoEn>52nd All Japan Aikido Demonstration</infoEn>
+           <infoJa>第52回全日本合気道演武大会</infoJa>
+       </news>
+
+       <news date="2014-05-24">
+           <infoEn>52nd All Japan Aikido Demonstration</infoEn>
+           <infoJa>第52回全日本合気道演武大会</infoJa>
+       </news>
+
+ <news date="2014-07-28">
+        <infoEn>Midsummer training: Day 1 of 10</infoEn>
+        <infoJa>暑中稽古: 10日間の1日目</infoJa>
+    </news>
+
+    <news date="2014-07-29">
+        <infoEn>Midsummer training: Day 2 of 10</infoEn>
+        <infoJa>暑中稽古: 10日間の2日目</infoJa>
+    </news>
+
+    <news date="2014-07-30">
+        <infoEn>Midsummer training: Day 3 of 10</infoEn>
+        <infoJa>暑中稽古: 10日間の3日目</infoJa>
+    </news>
+
+    <news date="2014-07-31">
+        <infoEn>Midsummer training: Day 4 of 10</infoEn>
+        <infoJa>暑中稽古: 10日間の4日目</infoJa>
+    </news>
+
+    <news date="2014-08-01">
+        <infoEn>Midsummer training: Day 5 of 10</infoEn>
+        <infoJa>暑中稽古: 10日間の5日目</infoJa>
+    </news>
+
+    <news date="2014-08-02">
+        <infoEn>Midsummer training: Day 6 of 10</infoEn>
+        <infoJa>暑中稽古: 10日間の6日目</infoJa>
+    </news>
+
+    <news date="2014-08-03">
+        <infoEn>Midsummer training: Day 7 of 10</infoEn>
+        <infoJa>暑中稽古: 10日間の7日目</infoJa>
+    </news>
+
+    <news date="2014-08-04">
+        <infoEn>Midsummer training: Day 8 of 10</infoEn>
+        <infoJa>暑中稽古: 10日間の8日目</infoJa>
+    </news>
+
+    <news date="2014-08-05">
+        <infoEn>Midsummer training: Day 9 of 10</infoEn>
+        <infoJa>暑中稽古: 10日間の9日目</infoJa>
+    </news>
+
+    <news date="2014-08-06">
+        <infoEn>Midsummer training: Day 10 of 10</infoEn>
+        <infoJa>暑中稽古: 10日間の10日目</infoJa>
+    </news>
+
+
+<!-- JANUARY 2014 -->
+
+
+    <travel date="2014-01-24,2014-01-25,2014-01-26">
+        <infoEn>Kuribayashi Shihan away in Crimea</infoEn>
+        <infoJa>栗林師範クリミア遠征</infoJa>
+    </travel>
+
+    <travel date="2014-01-24,2014-01-25,2014-01-26,2014-01-27,2014-01-28">
+        <infoEn>Katsurada Shihan away in Laos (Vientiane)</infoEn>
+        <infoJa>桂田師範ラオス（ビエンチャン）遠征</infoJa>
+    </travel>
+
+    <travel date="2014-01-24,2014-01-25,2014-01-26,2014-01-27,2014-01-28">
+        <infoEn>Yokota Shihan away in Germany</infoEn>
+        <infoJa>横田師範ドイツ遠征</infoJa>
+    </travel>
+
+
+<!-- FEBRUARY 2014 -->
+
+
+    <travel date="2014-02-01,2014-02-02">
+        <infoEn>Waka Sensei away in France (Valbonne)</infoEn>
+        <infoJa>植芝フランス（ボンヌ）遠征</infoJa>
+    </travel>
+
+    <travel date="2014-02-04,2014-02-05,2014-02-06,2014-02-07,2014-02-08,2014-02-09">
+        <infoEn>Endo Shihan away in Finland</infoEn>
+        <infoJa>遠藤師範フィンランド遠征</infoJa>
+    </travel>
+
+    <travel date="2014-02-08,2014-02-09">
+        <infoEn>Seki Shihan away in the Philippines</infoEn>
+        <infoJa>関師範フィリピン遠征</infoJa>
+    </travel>
+
+    <travel date="2014-02-11,2014-02-12,2014-02-13,2014-02-14,2014-02-15,2014-02-16,2014-02-17">
+        <infoEn>Kobayashi Shihan away in the Netherlands</infoEn>
+        <infoJa>小林師範オランダ遠征</infoJa>
+    </travel>
+
+    <travel date="2014-02-15,2014-02-16,2014-02-17,2014-02-18,2014-02-19,2014-02-20,2014-02-21,2014-02-22,2014-02-23">
+        <infoEn>Miyamoto Shihan away in USA (Hawaii)</infoEn>
+        <infoJa>宮本師範米国（ハワイ）遠征</infoJa>
+    </travel>
+
+    <travel date="2014-02-21,2014-02-22,2014-02-23">
+        <infoEn>Seki Shihan away in France (Chateaudun)</infoEn>
+        <infoJa>関師範フランス（シャトー）遠征</infoJa>
+    </travel>
+
+    <travel date="2014-02-28,2014-02-29,2014-03-01,2014-03-02">
+        <infoEn>Sugawara Shihan away in the UK (Scotland / Edinburgh)</infoEn>
+        <infoJa>菅原師範英国（スコットランド/エディンバラ）遠征</infoJa>
+    </travel>
+
+
+
+<!-- MARCH 2014 -->
+
+
+
+    <travel date="2014-03-01,2014-03-02">
+        <infoEn>Mori Shihan away in Vietnam (Ho Chi Minh)</infoEn>
+        <infoJa>森師範ベトナム（ホーチミン）遠征</infoJa>
+    </travel>
+
+    <travel date="2014-03-07,2014-03-08,2014-03-09,2014-03-10,2014-03-11">
+        <infoEn>Osawa Shihan away in Italy</infoEn>
+        <infoJa>大澤師範イタリア遠征</infoJa>
+    </travel>
+
+    <travel date="2014-03-13,2014-03-14,2014-03-15,2014-03-16">
+        <infoEn>Kobayashi Shihan away in Romania</infoEn>
+        <infoJa>小林師範ルーマニア遠征</infoJa>
+    </travel>
+
+    <travel date="2014-03-14,2014-03-15,2014-03-16">
+        <infoEn>Kanazawa Shihan away in Russia (Bashkortostan)</infoEn>
+        <infoJa>金沢師範ロシア（バシコルトスタン）遠征</infoJa>
+    </travel>
+
+    <travel date="2014-03-14,2014-03-15,2014-03-16">
+        <infoEn>Kuribayashi Shihan away in Hungary</infoEn>
+        <infoJa>栗林師範ハンガリー遠征</infoJa>
+    </travel>
+
+    <travel date="2014-03-14,2014-03-15,2014-03-16">
+        <infoEn>Sasaki Shihan away in Indonesia</infoEn>
+        <infoJa>佐々木師範インドネシア遠征</infoJa>
+    </travel>
+
+    <travel date="2014-03-14,2014-03-15,2014-03-16">
+        <infoEn>Sakurai Shihan away in Vietnam (Hanoi)</infoEn>
+        <infoJa>櫻井師範ベトナム（ハノイ）遠征</infoJa>
+    </travel>
+
+    <travel date="2014-03-23,2014-03-24,2014-03-25,2014-03-26">
+        <infoEn>Fujimaki Shihan away in Russia (Anapa)</infoEn>
+        <infoJa>藤巻師範ロシア遠征</infoJa>
+    </travel>
+
+
+
+<!-- APRIL 2014 -->
+
+
+
+    <travel date="2014-04-04,2014-04-05,2014-04-06,2014-04-07" tag="yokota">
+        <infoEn>Yokota Shihan away in Brazil (Sao Paulo)</infoEn>
+        <infoJa>横田師範ブラジル（サンパウロ）遠征</infoJa>
+    </travel>
+    <travel date="2014-04-10,2014-04-11,2014-04-12,2014-04-13" tag="yokota">
+        <infoEn>Yokota Shihan away in Argentina (Buenos Aires)</infoEn>
+        <infoJa>横田師範アルゼンチン（ブエノスアイレス）遠征</infoJa>
+    </travel>
+
+    <travel date="2014-04-11,2014-04-12,2014-04-13" tag="osawa">
+        <infoEn>Osawa Shihan away in Spain</infoEn>
+        <infoJa>大澤師範スペイン遠征</infoJa>
+    </travel>
+
+    <travel date="2014-04-11,2014-04-12,2014-04-13" tag="irie">
+        <infoEn>Irie Shihan away in Ireland</infoEn>
+        <infoJa>入江師範アイルランド遠征</infoJa>
+    </travel>
+
+    <travel date="2014-04-12,2014-04-13" tag="sasaki">
+        <infoEn>Sasaki Shihan away in Russia (Moscow)</infoEn>
+        <infoJa>佐々木師範ロシア（モスクワ）遠征</infoJa>
+    </travel>
+
+    <travel date="2014-04-18,2014-04-19,2014-04-20" tag="sugawara">
+        <infoEn>Sugawara Shihan away in Hong Kong</infoEn>
+        <infoJa>菅原師範香港遠征</infoJa>
+    </travel>
+
+    <travel date="2014-04-18,2014-04-19,2014-04-20" tag="katsurada">
+        <infoEn>Katsurada Shihan away in Russia (Blagoveshchensk)</infoEn>
+        <infoJa>桂田師範ロシア（ブラゴベシチェンスク）遠征</infoJa>
+    </travel>
+
+    <travel date="2014-04-18,2014-04-19,2014-04-20,2014-04-21" tag="miyamoto">
+        <infoEn>Miyamoto Shihan away in Israel</infoEn>
+        <infoJa>宮本師範イスラエル遠征</infoJa>
+    </travel>
+
+    <travel date="2014-04-25,2014-04-26,2014-04-27" tag="miyamoto">
+        <infoEn>Miyamoto Shihan away in Italy (Milano)</infoEn>
+        <infoJa>宮本師範イタリア（ミラノ）遠征</infoJa>
+    </travel>
+
+
+
+<!-- MAY 2014 -->
+
+
+
+    <travel date="2014-05-01,2014-05-02,2014-05-03" tag="seki">
+        <infoEn>Seki Shihan away in Poland</infoEn>
+        <infoJa>関師範ポーランド遠征</infoJa>
+    </travel>
+
+    <travel date="2014-05-09,2014-05-10,2014-05-11" tag="miyamoto">
+        <infoEn>Miyamoto Shihan away in Russia (Novosibirsk)</infoEn>
+        <infoJa>宮本師範ロシア（ノボシビルスク）遠征</infoJa>
+    </travel>
+
+    <travel date="2014-05-09,2014-05-10,2014-05-11" tag="mori">
+        <infoEn>Mori Shihan away in Kyrgyz</infoEn>
+        <infoJa>森師範キルギス遠征</infoJa>
+    </travel>
+
+    <travel date="2014-05-30,2014-05-31,2014-06-01" tag="toriumi">
+        <infoEn>Toriumi Shihan away in Austria</infoEn>
+        <infoJa>鳥海師範ロシア遠征</infoJa>
+    </travel>
+
+    <travel date="2014-05-30,2014-05-31,2014-06-01" tag="katsurada">
+        <infoEn>Katsurada Shihan away in Russia</infoEn>
+        <infoJa>桂田師範ロシア遠征</infoJa>
+    </travel>
+
+
+
+<!-- JUNE 2014 -->
+
+
+
+<travel date="2014-06-06,2014-06-07,2014-06-08" tag="kuribayashi">
+    <infoEn>Kuribayashi Shihan away in Spain (Murcia)</infoEn>
+    <infoJa>栗林師範スペイン遠征</infoJa>
+</travel>
+
+<travel date="2014-06-06,2014-06-07,2014-06-08" tag="kanazawa">
+    <infoEn>Kanazawa Shihan away in Russia (Vladivostok)</infoEn>
+    <infoJa>金沢師範ロシア（ウラジオストク）遠征</infoJa>
+</travel>
+
+<travel date="2014-06-13,2014-06-14,2014-06-15" tag="fujimaki">
+    <infoEn>Fujimaki Shihan away in China (Beijing)</infoEn>
+    <infoJa>藤巻師範中国（北京）遠征</infoJa>
+</travel>
+
+<travel date="2014-06-13,2014-06-14,2014-06-15" tag="seki">
+    <infoEn>Seki Shihan away in Indonesia (Bali)</infoEn>
+    <infoJa>関師範インドネシア（バリ）遠征</infoJa>
+</travel>
+
+<travel date="2014-06-13,2014-06-14,2014-06-15" tag="yokota">
+    <infoEn>Yokota Shihan away in England</infoEn>
+    <infoJa>横田師範イギリス遠征</infoJa>
+</travel>
+
+<travel date="2014-06-14,2014-06-15" tag="mori">
+    <infoEn>Mori Shihan away in Indonesia</infoEn>
+    <infoJa>森師範インドネシア遠征</infoJa>
+</travel>
+
+<travel date="2014-06-20,2014-06-21,2014-06-22" tag="ueshiba">
+    <infoEn>Waka Sensei away in Korea (Seoul)</infoEn>
+    <infoJa>植芝韓国（ソウル）遠征</infoJa>
+</travel>
+
+<travel date="2014-06-20,2014-06-21,2014-06-22" tag="osawa">
+    <infoEn>Osawa Shihan away in Canada (Vancouver)</infoEn>
+    <infoJa>大澤師範カナダ（バンクーバー）遠征</infoJa>
+</travel>
+
+<travel date="2014-06-20,2014-06-21,2014-06-22" tag="sugawara">
+    <infoEn>Sugawara Shihan away in Russia (St. Petersburg)</infoEn>
+    <infoJa>菅原師範ロシア（サンクトペテルブルク）遠征</infoJa>
+</travel>
+
+<travel date="2014-06-22,2014-06-23,2014-06-24,2014-06-25,2014-06-26,2014-06-27,2014-06-28" tag="seki">
+    <infoEn>Seki Shihan away in USA (Chicago)</infoEn>
+    <infoJa>関師範米国（シカゴ）遠征</infoJa>
+</travel>
+
+
+    <!-- JULY 2014 -->
+
+    <travel date="2014-07-02,2014-07-03,2014-07-04,2014-07-05,2014-07-06" tag="endo">
+        <infoEn>Endo Shihan away in Slovakia</infoEn>
+        <infoJa>遠藤師範スロバキア遠征</infoJa>
+    </travel>
+
+    <travel date="2014-07-03,2014-07-04,2014-07-05,2014-07-06" tag="kuribayashi">
+        <infoEn>Kuribayashi Shihan away Russia (Moscow)</infoEn>
+        <infoJa>栗林師範ロシア（モスクワ）遠征</infoJa>
+    </travel>
+
+    <travel date="2014-07-05,2014-07-06,2014-07-07,2014-07-08" tag="fujimaki">
+        <infoEn>Fujimaki Shihan away Lebanon</infoEn>
+        <infoJa>藤巻師範レバノン遠征</infoJa>
+    </travel>
+
+    <travel date="2014-07-04,2014-07-05,2014-07-06,2014-07-07,2014-07-08" tag="osawa">
+        <infoEn>Osawa Shihan away in Italy (Milano)</infoEn>
+        <infoJa>大澤師範イタリア（ミラノ）遠征</infoJa>
+    </travel>
+
+    <travel date="2014-07-04,2014-07-05,2014-07-06,2014-07-07" tag="kobayashi">
+        <infoEn>Kobayashi Shihan away in Bulgaria</infoEn>
+        <infoJa>小林師範ブルガリア遠征</infoJa>
+    </travel>
+
+    <travel date="2014-07-08,2014-07-09,2014-07-10,2014-07-11,2014-07-12" tag="endo">
+        <infoEn>Endo Shihan away in Russia (Moscow)</infoEn>
+        <infoJa>遠藤師範ロシア（モスクワ）遠征</infoJa>
+    </travel>
+
+    <travel date="2014-07-12,2014-07-13,2014-07-14,2014-07-15" tag="sasaki">
+        <infoEn>Sasaki Shihan away in the Netherlands</infoEn>
+        <infoJa>佐々木師範オランダ遠征</infoJa>
+    </travel>
+
+    <travel date="2014-07-26,2014-07-27" tag="ueshiba">
+        <infoEn>Waka Sensei away in Malaysia</infoEn>
+        <infoJa>植芝マレーシア遠征</infoJa>
+    </travel>
+
+    <travel date="2014-07-26,2014-07-27,2014-07-28,2014-07-29,2014-07-30,2014-07-31,2014-08-01" tag="miyamoto">
+        <infoEn>Miyamoto Shihan away in Poland</infoEn>
+        <infoJa>宮本師範ポーランド遠征</infoJa>
+    </travel>
+
+
+    <!-- AUGUST 2014 -->
+
+
+    <travel date="2014-08-09,2014-08-10,2014-08-11,2014-08-12,2014-08-13,2014-08-14,2014-08-15" tag="kobayashi">
+        <infoEn>Kobayashi Shihan away in the UK</infoEn>
+        <infoJa>小林師範英国遠征</infoJa>
+    </travel>
+
+    <travel date="2014-08-16,2014-08-17,2014-08-18,2014-08-19,2014-08-20,2014-08-21,2014-08-22,2014-08-23" tag="seki">
+        <infoEn>Seki Shihan away in France (Nice)</infoEn>
+        <infoJa>関師範フランス（ニース）遠征</infoJa>
+    </travel>
+
+    <travel date="2014-08-16,2014-08-17,2014-08-18,2014-08-19,2014-08-20,2014-08-21,2014-08-22,2014-08-23,2014-08-24" tag="sugawara">
+        <infoEn>Sugawara Shihan away in the UK</infoEn>
+        <infoJa>菅原師範英国遠征</infoJa>
+    </travel>
+
+    <travel date="2014-08-29,2014-08-30,2014-08-31" tag="sakurai">
+        <infoEn>Sakurai Shihan away in Bulgaria</infoEn>
+        <infoJa>櫻井師範ブルガリア遠征</infoJa>
+    </travel>
+
+    <!--
+
+        <travel date="2014-08-29,2014-08-30,2014-08-31" tag="ito">
+            <infoEn>Ito Shihan away in Mexico</infoEn>
+            <infoJa>伊藤師範ブルガリア遠征</infoJa>
+        </travel>
+
+    -->
+
+    <!-- SEPTEMBER 2014 -->
+
+    <travel date="2014-09-04,2014-09-05,2014-09-06,2014-09-07" tag="fujimaki">
+        <infoEn>Fujimaki Shihan away in New Zealand</infoEn>
+        <infoJa>藤巻師範ニュージーランド遠征</infoJa>
+    </travel>
+
+    <travel date="2014-09-05,2014-09-06,2014-09-07,2014-09-08,2014-09-09,2014-09-10,2014-09-11,2014-09-12,2014-09-13,2014-09-14,2014-09-15,2014-09-16" tag="seki">
+        <infoEn>Seki Shihan away in Brazil</infoEn>
+        <infoJa>関師範ブラジル遠征</infoJa>
+    </travel>
+
+    <travel date="2014-09-12,2014-09-13,2014-09-14" tag="kanazawa">
+        <infoEn>Kanazawa Shihan away in Poland</infoEn>
+        <infoJa>金沢師範ポーランド遠征</infoJa>
+    </travel>
+
+    <travel date="2014-09-12,2014-09-13,2014-09-14" tag="kuribayashi">
+        <infoEn>Kuribayashi Shihan away in Bulgaria</infoEn>
+        <infoJa>栗林師範ブルガリア遠征</infoJa>
+    </travel>
+
+    <travel date="2014-09-11,2014-09-12,2014-09-13,2014-09-14" tag="ueshiba">
+        <infoEn>Waka Sensei away in Romania</infoEn>
+        <infoJa>植芝ルーマニア遠征</infoJa>
+    </travel>
+
+    <travel date="2014-09-19,2014-09-20,2014-09-21,2014-09-22" tag="endo">
+        <infoEn>Endo Shihan away in Shanghai</infoEn>
+        <infoJa>遠藤師範上海遠征</infoJa>
+    </travel>
+
+    <travel date="2014-09-19,2014-09-20,2014-09-21" tag="mori">
+        <infoEn>Mori Shihan away in Mongolia</infoEn>
+        <infoJa>森師範モンゴル国遠征</infoJa>
+    </travel>
+
+    <travel date="2014-09-16,2014-09-17,2014-09-18,2014-09-19,2014-09-20,2014-09-21,2014-09-22,2014-09-23,2014-09-24,2014-09-25,2014-09-26,2014-09-27,2014-09-28" tag="kobayashi">
+        <infoEn>Kobayashi Shihan away in Greece (Athens)</infoEn>
+        <infoJa>小林師範ギリシャ（アテネ）遠征</infoJa>
+    </travel>
+
+    <travel date="2014-09-27,2014-09-28" tag="ueshiba">
+        <infoEn>Waka Sensei away in Switzerland</infoEn>
+        <infoJa>植芝スイス遠征</infoJa>
+    </travel>
+
+    <travel date="2014-09-27,2014-09-28" tag="osawa">
+        <infoEn>Osawa Shihan away in Canada</infoEn>
+        <infoJa>大澤師範カナダ遠征</infoJa>
+    </travel>
+
+
+  <!-- OCTOBER 2014 -->
+
+    <travel date="2014-10-04,2014-10-05" tag="yasuno">
+        <infoEn>Yasuno Shihan away in Italy (Pavia)</infoEn>
+        <infoJa>安野師範イタリア（パヴィア）遠征</infoJa>
+    </travel>
+
+    <travel date="2014-10-10,2014-10-11,2014-10-12" tag="yasuno">
+        <infoEn>Yasuno Shihan away in Spain (Madrid)</infoEn>
+        <infoJa>安野師範スペイン（マドリッド）遠征</infoJa>
+    </travel>
+
+    <travel date="2014-10-08,2014-10-09,2014-10-10,2014-10-11,2014-10-12" tag="irie">
+        <infoEn>Irie Shihan away in Indonesia</infoEn>
+        <infoJa>入江師範インドネシア遠征</infoJa>
+    </travel>
+
+    <travel date="2014-10-10,2014-10-11,2014-10-12" tag="kuribayashi">
+        <infoEn>Kuribayashi Shihan away Azerbaijan</infoEn>
+        <infoJa>栗林師範アゼルバイジャン遠征</infoJa>
+    </travel>
+
+    <travel date="2014-10-10,2014-10-11,2014-10-12" tag="katsurada">
+        <infoEn>Katsurada Shihan away in the USA (Chicago)</infoEn>
+        <infoJa>桂田師範米国（シカゴ）遠征</infoJa>
+    </travel>
+
+    <travel date="2014-10-13,2014-10-14,2014-10-15,2014-10-16,2014-10-17" tag="seki">
+        <infoEn>Seki Shihan away in Israel</infoEn>
+        <infoJa>関師範イスラエル遠征</infoJa>
+    </travel>
+
+    <travel date="2014-10-17,2014-10-18,2014-10-19" tag="sugawara">
+        <infoEn>Sugawara Shihan away in Lithuania</infoEn>
+        <infoJa>菅原師範リトアニア遠征</infoJa>
+    </travel>
+
+    <travel date="2014-10-17,2014-10-18,2014-10-19,2014-10-20,2014-10-21,2014-10-22,2014-10-23,2014-10-24,2014-10-25,2014-10-26" tag="yokota">
+        <infoEn>Yokota Shihan away in the USA (Chicago)</infoEn>
+        <infoJa>横田師範米国（シカゴ）遠征</infoJa>
+    </travel>
+
+    <travel date="2014-10-25,2014-10-26" tag="ueshiba">
+        <infoEn>Waka Sensei away in Slovakia</infoEn>
+        <infoJa>植芝スロバキア遠征</infoJa>
+    </travel>
+
+    <travel date="2014-10-30,2014-10-31,2014-11-01,2014-11-02" tag="sugawara">
+        <infoEn>Sugawara Shihan away in Armenia</infoEn>
+        <infoJa>菅原師範アルメニア遠征</infoJa>
+    </travel>
+
+    <travel date="2014-10-31,2014-11-01,2014-11-02" tag="seki">
+        <infoEn>Seki Shihan away in Russia (Moscow)</infoEn>
+        <infoJa>関師範ロシア（モスクワ）遠征</infoJa>
+    </travel>
+
+    <travel date="2014-10-31,2014-11-01,2014-11-02" tag="kuribayashi">
+        <infoEn>Kuribayashi Shihan away Norway (Oslo)</infoEn>
+        <infoJa>栗林師範ノルウェー（オスロ）遠征</infoJa>
+    </travel>
+    
+    
+        <!-- NOVEMBER 2014 -->
+
+
+    <travel date="2014-11-06,2014-11-07,2014-11-08,2014-11-09,2014-11-11" tag="kobayashi">
+        <infoEn>Kobayashi Shihan away for the Budo Tour</infoEn>
+        <infoJa>小林師範武道ツアー遠征</infoJa>
+    </travel>
+    
+    <travel date="2014-11-06,2014-11-07,2014-11-08,2014-11-09,2014-11-11" tag="katsurada">
+        <infoEn>Katsurada Shihan away for the Budo Tour</infoEn>
+        <infoJa>桂田師範武道ツアー遠征</infoJa>
+    </travel>    
+
+    <travel date="2014-11-07,2014-11-08,2014-11-09" tag="osawa">
+        <infoEn>Osawa Shihan away in Belgium</infoEn>
+        <infoJa>大澤師範ベルギー遠征</infoJa>
+    </travel>
+
+    <travel date="2014-11-07,2014-11-08,2014-11-09,2014-11-10,2014-11-11,2014-11-12" tag="miyamoto">
+        <infoEn>Miyamoto Shihan away in France (Bordeaux, more)</infoEn>
+        <infoJa>宮本師範フランス（ボルドー、他）遠征</infoJa>
+    </travel>
+
+    <travel date="2014-11-14,2014-11-15" tag="miyamoto">
+        <infoEn>Miyamoto Shihan away in Spain (Barcelona)</infoEn>
+        <infoJa>宮本師範スペイン（バルセロナ）遠征</infoJa>
+    </travel>
+    
+    <travel date="2014-11-14,2014-11-15,2014-11-16" tag="irie">
+        <infoEn>Irie Shihan away in Russia (Siberia)</infoEn>
+        <infoJa>入江師範ロシア（シベリア）遠征</infoJa>
+    </travel>
+
+    <travel date="2014-11-21,2014-11-22,2014-11-23" tag="kodani">
+        <infoEn>Kodani Shidoin away in Russia (Samara)</infoEn>
+        <infoJa>小谷指導員ロシア（サマラ）遠征</infoJa>
+    </travel>
+
+    <travel date="2014-11-26,2014-11-27,2014-11-28,2014-11-29,2014-11-30,2014-11-31,2014-12-01" tag="kuribayashi">
+        <infoEn>Kuribayashi Shihan away in France, Monaco</infoEn>
+        <infoJa>栗林師範フランス,モナコ遠征</infoJa>
+    </travel>
+    
+    
+        <news date="2014-11-29">
+        <infoEn>54th All Japan Students' Demonstration (Budokan)</infoEn>
+        <infoJa>第54回全国学生合気道演武大会(日本武道館)</infoJa>
+    </news>
+
+    <news date="2014-12-25">
+        <infoEn>Last regular practice of the year</infoEn>
+        <infoJa>本部道場稽古納め</infoJa>
+    </news>
+    
+    <news date="2014-12-26">
+        <infoEn>Dojo cleaning 09:00-11:00</infoEn>
+        <infoJa>大掃除　9:00～11:00</infoJa>
+    </news>
+
+    <news date="2014-12-31">
+        <infoEn>New Year's crossing-over practice (Etsunen keiko)</infoEn>
+        <infoJa>越年稽古</infoJa>
+    </news>
+
+    <news date="2015-01-06">
+        <infoEn>Practice begins for regular classes</infoEn>
+        <infoJa>本部道場稽古始め</infoJa>
+    </news>
+
+    <news date="2015-01-10">
+        <infoEn>Due to meetings, no practices after 9:00</infoEn>
+        <infoJa>会議のため朝9時以降の稽古はお休みです。</infoJa>
+    </news>
+    
+    
+    <news date="2015-01-26">
+        <infoEn>Mid-winter training: Day 1 of 10</infoEn>
+        <infoJa>寒稽古: 10日間の1日目</infoJa>
+    </news>
+
+    <news date="2015-01-27">
+        <infoEn>Mid-winter training: Day 2 of 10</infoEn>
+        <infoJa>寒稽古: 10日間の2日目</infoJa>
+    </news>
+
+    <news date="2015-01-28">
+        <infoEn>Mid-winter training: Day 3 of 10</infoEn>
+        <infoJa>寒稽古: 10日間の3日目</infoJa>
+    </news>
+
+    <news date="2015-01-29">
+        <infoEn>Mid-winter training: Day 4 of 10</infoEn>
+        <infoJa>寒稽古: 10日間の4日目</infoJa>
+    </news>
+
+    <news date="2015-01-30">
+        <infoEn>Mid-winter training: Day 5 of 10</infoEn>
+        <infoJa>寒稽古: 10日間の5日目</infoJa>
+    </news>
+
+    <news date="2015-01-31">
+        <infoEn>Mid-winter training: Day 6 of 10</infoEn>
+        <infoJa>寒稽古: 10日間の6日目</infoJa>
+    </news>
+
+    <news date="2015-02-01">
+        <infoEn>Mid-winter training: Day 7 of 10</infoEn>
+        <infoJa>寒稽古: 10日間の7日目</infoJa>
+    </news>
+
+    <news date="2015-02-02">
+        <infoEn>Mid-winter training: Day 8 of 10</infoEn>
+        <infoJa>寒稽古: 10日間の8日目</infoJa>
+    </news>
+
+    <news date="2015-02-03">
+        <infoEn>Mid-winter training: Day 9 of 10</infoEn>
+        <infoJa>寒稽古: 10日間の9日目</infoJa>
+    </news>
+
+    <news date="2015-02-04">
+        <infoEn>Mid-winter training: Day 10 of 10</infoEn>
+        <infoJa>寒稽古: 10日間の10日目</infoJa>
+    </news>
+    
+    
+    <!-- JANUARY -->
+    
+    <travel date="2015-01-16,2015-01-17,2015-01-18" tag="ueshiba">
+        <infoEn>Waka Sensei away in Mexico</infoEn>
+        <infoJa>植芝メキシコ遠征</infoJa>
+    </travel>    
+
+    <travel date="2015-01-17,2015-01-18" tag="kobayashi">
+        <infoEn>Kobayashi Shihan away in Germany</infoEn>
+        <infoJa>小林師範ドイツ遠征</infoJa>
+    </travel>
+    
+    <travel date="2015-01-23,2015-01-24,2015-01-25" tag="kuribayashi">
+        <infoEn>Kuribayashi Shihan away in Russia</infoEn>
+        <infoJa>栗林師範ロシア遠征</infoJa>
+    </travel>
+    
+    <travel date="2015-01-21,2015-01-22,2015-01-23,2015-01-24" tag="doshu">
+        <infoEn>Doshu away in Australia</infoEn>
+        <infoJa>道主オーストラリア遠征</infoJa>
+    </travel>
+    
+    <travel date="2014-01-22,2014-01-23,2014-01-24,2014-01-25,2014-01-26,2014-01-27,2014-01-28,2014-01-29,2014-01-30,2014-01-31,2014-02-01" tag="sasaki">
+        <infoEn>Sasaki Shihan away in India (Delhi, Mumbai)</infoEn>
+        <infoJa>佐々木師範インド（デリー、ムンバイ）遠征</infoJa>
+    </travel>    
+    
+    <travel date="2015-01-31" tag="sugawara">
+        <infoEn>Sugawara Shihan away at Tokyo Budokan</infoEn>
+        <infoJa>菅原師範東京武道館遠征</infoJa>
+    </travel>  

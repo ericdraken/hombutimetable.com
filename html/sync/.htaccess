@@ -1,0 +1,21 @@
+# Allow HTTPS pages to contact HTTP pages in my domain
+Header set Access-Control-Allow-Origin *
+AddDefaultCharset UTF-8
+SetEnv TZ Asia/Tokyo
+
+# Disable the server signature
+ServerSignature Off
+
+# prevent folder listing
+IndexIgnore *
+
+<IfModule mod_rewrite.c>
+RewriteEngine On
+Options +FollowSymlinks 
+RewriteBase /
+########### START REWRITE RULES ###############
+
+
+
+########### END REWRITE RULES ###############
+</IfModule>

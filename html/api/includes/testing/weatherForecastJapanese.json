@@ -1,0 +1,395 @@
+{
+    "response": {
+        "version":"0.1",
+        "termsofService":"http://www.wunderground.com/weather/api/d/terms.html",
+        "features": {
+            "forecast": 1
+        }
+    }
+    ,
+    "forecast":{
+        "txt_forecast": {
+            "date":"6:07 PM JST",
+            "forecastday": [
+                {
+                    "period":0,
+                    "icon":"chancerain",
+                    "icon_url":"http://icons.wxug.com/i/c/k/chancerain.gif",
+                    "title":"木曜日",
+                    "fcttext":"朝方、一時小雨。 最低気温59℉。 北東の風10～15マイル毎時。 降雨確率は70%。",
+                    "fcttext_metric":"朝方、一時小雨。 最低気温14℃。 北東の風15～25キロメートル毎時。 降雨確率は60%。",
+                    "pop":"70"
+                }
+                ,
+                {
+                    "period":1,
+                    "icon":"nt_chancerain",
+                    "icon_url":"http://icons.wxug.com/i/c/k/nt_chancerain.gif",
+                    "title":"木曜日の夜",
+                    "fcttext":"朝方、一時小雨。 最低気温59℉。 北東の風10～15マイル毎時。 降雨確率は70%。",
+                    "fcttext_metric":"朝方、一時小雨。 最低気温14℃。 北東の風15～25キロメートル毎時。 降雨確率は60%。",
+                    "pop":"70"
+                }
+                ,
+                {
+                    "period":2,
+                    "icon":"partlycloudy",
+                    "icon_url":"http://icons.wxug.com/i/c/k/partlycloudy.gif",
+                    "title":"金曜日",
+                    "fcttext":"所により曇り。 最高気温71℉。 南東の風10～20マイル毎時。",
+                    "fcttext_metric":"所により曇り。 最高気温22℃。 南東の風15～30キロメートル毎時。",
+                    "pop":"20"
+                }
+                ,
+                {
+                    "period":3,
+                    "icon":"nt_partlycloudy",
+                    "icon_url":"http://icons.wxug.com/i/c/k/nt_partlycloudy.gif",
+                    "title":"金曜日の夜",
+                    "fcttext":"所により曇り。 最低気温61℉。 南の風10～20マイル毎時。",
+                    "fcttext_metric":"所により曇り。 最低気温16℃。 南の風15～25キロメートル毎時。",
+                    "pop":"20"
+                }
+                ,
+                {
+                    "period":4,
+                    "icon":"partlycloudy",
+                    "icon_url":"http://icons.wxug.com/i/c/k/partlycloudy.gif",
+                    "title":"土曜日",
+                    "fcttext":"所により曇り。 最高気温76℉。 南南西の風20～30マイル毎時。",
+                    "fcttext_metric":"所により曇りで風が強い。 最高気温25℃。 南南西の風25～40キロメートル毎時。",
+                    "pop":"10"
+                }
+                ,
+                {
+                    "period":5,
+                    "icon":"nt_partlycloudy",
+                    "icon_url":"http://icons.wxug.com/i/c/k/nt_partlycloudy.gif",
+                    "title":"土曜日の夜",
+                    "fcttext":"所により曇り。 最低気温66℉。 南南西の風15～25マイル毎時。",
+                    "fcttext_metric":"所により曇りで風が強い。 最低気温18℃。 南南西の風25～40キロメートル毎時。",
+                    "pop":"0"
+                }
+                ,
+                {
+                    "period":6,
+                    "icon":"partlycloudy",
+                    "icon_url":"http://icons.wxug.com/i/c/k/partlycloudy.gif",
+                    "title":"日曜日",
+                    "fcttext":"所により曇り。 最高気温82℉。 南南西の風10～15マイル毎時。",
+                    "fcttext_metric":"所により曇り。 最高気温28℃。 南南西の風15～25キロメートル毎時。",
+                    "pop":"0"
+                }
+                ,
+                {
+                    "period":7,
+                    "icon":"nt_clear",
+                    "icon_url":"http://icons.wxug.com/i/c/k/nt_clear.gif",
+                    "title":"日曜日の夜",
+                    "fcttext":"大体晴れ。 最低気温66℉。 南南西の風10～15マイル毎時。",
+                    "fcttext_metric":"大体晴れ。 最低気温19℃。 南南西の風15～25キロメートル毎時。",
+                    "pop":"10"
+                }
+            ]
+        },
+        "simpleforecast": {
+            "forecastday": [
+                {"date":{
+                    "epoch":"1400752800",
+                    "pretty":"7:00 PM JST on 五月 22, 2014",
+                    "day":22,
+                    "month":5,
+                    "year":2014,
+                    "yday":141,
+                    "hour":19,
+                    "min":"00",
+                    "sec":0,
+                    "isdst":"0",
+                    "monthname":"五月",
+                    "monthname_short":"5月",
+                    "weekday_short":"木曜日",
+                    "weekday":"木曜日",
+                    "ampm":"PM",
+                    "tz_short":"JST",
+                    "tz_long":"Asia/Tokyo"
+                },
+                    "period":1,
+                    "high": {
+                        "fahrenheit":"81",
+                        "celsius":"27"
+                    },
+                    "low": {
+                        "fahrenheit":"59",
+                        "celsius":"15"
+                    },
+                    "conditions":"雨の可能性",
+                    "icon":"chancerain",
+                    "icon_url":"http://icons.wxug.com/i/c/k/chancerain.gif",
+                    "skyicon":"",
+                    "pop":70,
+                    "qpf_allday": {
+                        "in": null,
+                        "mm": null
+                    },
+                    "qpf_day": {
+                        "in": null,
+                        "mm": null
+                    },
+                    "qpf_night": {
+                        "in": 0.07,
+                        "mm": 2
+                    },
+                    "snow_allday": {
+                        "in": null,
+                        "cm": null
+                    },
+                    "snow_day": {
+                        "in": null,
+                        "cm": null
+                    },
+                    "snow_night": {
+                        "in": 0.0,
+                        "cm": 0.0
+                    },
+                    "maxwind": {
+                        "mph": 0,
+                        "kph": 0,
+                        "dir": "",
+                        "degrees": 0
+                    },
+                    "avewind": {
+                        "mph": 0,
+                        "kph": 0,
+                        "dir": "",
+                        "degrees": 0
+                    },
+                    "avehumidity": 74,
+                    "maxhumidity": 0,
+                    "minhumidity": 0
+                }
+                ,
+                {"date":{
+                    "epoch":"1400839200",
+                    "pretty":"7:00 PM JST on 五月 23, 2014",
+                    "day":23,
+                    "month":5,
+                    "year":2014,
+                    "yday":142,
+                    "hour":19,
+                    "min":"00",
+                    "sec":0,
+                    "isdst":"0",
+                    "monthname":"五月",
+                    "monthname_short":"5月",
+                    "weekday_short":"金曜日",
+                    "weekday":"金曜日",
+                    "ampm":"PM",
+                    "tz_short":"JST",
+                    "tz_long":"Asia/Tokyo"
+                },
+                    "period":2,
+                    "high": {
+                        "fahrenheit":"71",
+                        "celsius":"22"
+                    },
+                    "low": {
+                        "fahrenheit":"61",
+                        "celsius":"16"
+                    },
+                    "conditions":"所により曇",
+                    "icon":"partlycloudy",
+                    "icon_url":"http://icons.wxug.com/i/c/k/partlycloudy.gif",
+                    "skyicon":"",
+                    "pop":20,
+                    "qpf_allday": {
+                        "in": null,
+                        "mm": null
+                    },
+                    "qpf_day": {
+                        "in": 0.00,
+                        "mm": 0
+                    },
+                    "qpf_night": {
+                        "in": 0.00,
+                        "mm": 0
+                    },
+                    "snow_allday": {
+                        "in": null,
+                        "cm": null
+                    },
+                    "snow_day": {
+                        "in": 0.0,
+                        "cm": 0.0
+                    },
+                    "snow_night": {
+                        "in": 0.0,
+                        "cm": 0.0
+                    },
+                    "maxwind": {
+                        "mph": 13,
+                        "kph": 21,
+                        "dir": "南東",
+                        "degrees": 126
+                    },
+                    "avewind": {
+                        "mph": 13,
+                        "kph": 21,
+                        "dir": "南東",
+                        "degrees": 126
+                    },
+                    "avehumidity": 76,
+                    "maxhumidity": 0,
+                    "minhumidity": 0
+                }
+                ,
+                {"date":{
+                    "epoch":"1400925600",
+                    "pretty":"7:00 PM JST on 五月 24, 2014",
+                    "day":24,
+                    "month":5,
+                    "year":2014,
+                    "yday":143,
+                    "hour":19,
+                    "min":"00",
+                    "sec":0,
+                    "isdst":"0",
+                    "monthname":"五月",
+                    "monthname_short":"5月",
+                    "weekday_short":"土曜日",
+                    "weekday":"土曜日",
+                    "ampm":"PM",
+                    "tz_short":"JST",
+                    "tz_long":"Asia/Tokyo"
+                },
+                    "period":3,
+                    "high": {
+                        "fahrenheit":"76",
+                        "celsius":"24"
+                    },
+                    "low": {
+                        "fahrenheit":"66",
+                        "celsius":"19"
+                    },
+                    "conditions":"所により曇",
+                    "icon":"partlycloudy",
+                    "icon_url":"http://icons.wxug.com/i/c/k/partlycloudy.gif",
+                    "skyicon":"",
+                    "pop":10,
+                    "qpf_allday": {
+                        "in": null,
+                        "mm": null
+                    },
+                    "qpf_day": {
+                        "in": 0.00,
+                        "mm": 0
+                    },
+                    "qpf_night": {
+                        "in": 0.00,
+                        "mm": 0
+                    },
+                    "snow_allday": {
+                        "in": null,
+                        "cm": null
+                    },
+                    "snow_day": {
+                        "in": 0.0,
+                        "cm": 0.0
+                    },
+                    "snow_night": {
+                        "in": 0.0,
+                        "cm": 0.0
+                    },
+                    "maxwind": {
+                        "mph": 20,
+                        "kph": 32,
+                        "dir": "南南西",
+                        "degrees": 200
+                    },
+                    "avewind": {
+                        "mph": 20,
+                        "kph": 32,
+                        "dir": "南南西",
+                        "degrees": 200
+                    },
+                    "avehumidity": 73,
+                    "maxhumidity": 0,
+                    "minhumidity": 0
+                }
+                ,
+                {"date":{
+                    "epoch":"1401012000",
+                    "pretty":"7:00 PM JST on 五月 25, 2014",
+                    "day":25,
+                    "month":5,
+                    "year":2014,
+                    "yday":144,
+                    "hour":19,
+                    "min":"00",
+                    "sec":0,
+                    "isdst":"0",
+                    "monthname":"五月",
+                    "monthname_short":"5月",
+                    "weekday_short":"太陽",
+                    "weekday":"日曜日",
+                    "ampm":"PM",
+                    "tz_short":"JST",
+                    "tz_long":"Asia/Tokyo"
+                },
+                    "period":4,
+                    "high": {
+                        "fahrenheit":"82",
+                        "celsius":"28"
+                    },
+                    "low": {
+                        "fahrenheit":"66",
+                        "celsius":"19"
+                    },
+                    "conditions":"所により曇",
+                    "icon":"partlycloudy",
+                    "icon_url":"http://icons.wxug.com/i/c/k/partlycloudy.gif",
+                    "skyicon":"",
+                    "pop":0,
+                    "qpf_allday": {
+                        "in": null,
+                        "mm": null
+                    },
+                    "qpf_day": {
+                        "in": 0.00,
+                        "mm": 0
+                    },
+                    "qpf_night": {
+                        "in": 0.00,
+                        "mm": 0
+                    },
+                    "snow_allday": {
+                        "in": null,
+                        "cm": null
+                    },
+                    "snow_day": {
+                        "in": 0.0,
+                        "cm": 0.0
+                    },
+                    "snow_night": {
+                        "in": 0.0,
+                        "cm": 0.0
+                    },
+                    "maxwind": {
+                        "mph": 11,
+                        "kph": 18,
+                        "dir": "南南西",
+                        "degrees": 194
+                    },
+                    "avewind": {
+                        "mph": 11,
+                        "kph": 18,
+                        "dir": "南南西",
+                        "degrees": 194
+                    },
+                    "avehumidity": 78,
+                    "maxhumidity": 0,
+                    "minhumidity": 0
+                }
+            ]
+        }
+    }
+}
